@@ -30,8 +30,13 @@ an RGB-D Shot](https://fangxianyong.github.io/home/papers/VRST19SIngleRGBD.pdf),
 
 ## Contacts
 Should you have any question regarding this software and its corresponding results, please contact:
+
 Xianyong Fang (fangxianyong@ahu.edu.cn)
+
 Jikui Yang (e16301112@stu.ahu.edu.cn)
+
 Jie Rao (e18301094@stu.ahu.edu.cn)
+
 Linbo Wang（wanglb@ahu.edu.cn)
+
 Zhigang Deng (zdeng4@uh.edu)
